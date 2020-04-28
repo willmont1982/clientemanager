@@ -1,5 +1,5 @@
 # Cliente Manager
-Cadastro de Cliente [Angular 7, SpringBoot, OAuth2]
+Cadastro de Cliente [Angular 7, SpringBoot, OAuth2/MySql, Arquitetura Maven, JPA com Hibernate]
 
 # Usuários
  ## ADMIN
@@ -21,7 +21,7 @@ Cadastro de Cliente [Angular 7, SpringBoot, OAuth2]
  - Hibernate Envers (Auditoria)
 ## Considereções
  - testado com banco de dados H2 e Mysql.
- - TODO - implementar testes unitários
+ - TODO - implementação de testes unitários(TDD)
  - executar: mvnw spring-boot:run
 
 # Frontend:
